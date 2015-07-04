@@ -1,0 +1,22 @@
+	body {
+  text-align:center;
+  font-family: helvetica;background-color: rgba(20,130,150,111);
+  background-image: url(1.jpg);
+}
+h3 {
+    font-size: 60px;
+    font-weight: 200;
+    letter-spacing: 10px;color:rgb(220,10,100);
+    text-align: center;text-shadow: 2px 2px 2px #CCCCCC;
+    }  
+
+canvas {
+  border: 10px solid black;
+
+}
+.container {
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 15px;
+    padding-right: 15px;background-color: aqua;
+}
