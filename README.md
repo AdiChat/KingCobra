@@ -14,3 +14,5 @@ All considerations of developments would be looked upon and is expected to trigg
 
 License : MIT License Copyright (c) 2015 Aditya Chatterjee<br>
           Consider the LINCENSE.md file to keep up my effort.<br>
+          
+Soon web application will be launched.
