@@ -4,7 +4,7 @@ KingCobra is an open source client side single player game written in JavaScript
 Now play the game [here](http://king-cobra.herokuapp.com/) :video_game: 
 
 Author : Aditya Chatterjee<br>
-:e-mail:  : [me](aditianhacker@gmail.com)<br>
+:e-mail: me  : aditianhacker@gmail.com<br>
 
 :movie_camera: : [here](https://www.youtube.com/watch?v=dWNgEYb1NRA)
 
